@@ -1,2 +1,2 @@
 # alu-AirBnB_clone
-Clope App of AirBnb 
+Clone App of AirBnb 
